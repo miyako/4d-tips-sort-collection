@@ -1,0 +1,6 @@
+
+sort-collection-example/Data/data.journal
+**/DerivedData/*
+**/userPreferences.*
+sort-collection-example/Resources/*.json
+**/Data/*
